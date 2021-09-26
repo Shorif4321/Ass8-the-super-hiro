@@ -15,7 +15,7 @@ const Empoye = () => {
             .then(data => setEmployers(data))
     }, []);
 
-    {/*========  Button event handelar =========*/ }
+    {/*========  Button event handelar is here=========*/ }
     const addToCartHandelar = (employe) => {
         const newEmploye = [...cart, employe]
         setCart(newEmploye)
@@ -34,6 +34,7 @@ const Empoye = () => {
             </div>
             <div className="w-25 details">
                 <Cart cart={cart}></Cart>
+
             </div>
 
         </div>
