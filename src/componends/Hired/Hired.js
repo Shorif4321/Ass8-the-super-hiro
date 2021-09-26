@@ -2,7 +2,7 @@ import React from 'react';
 import './HIred.css'
 
 const Hired = (props) => {
-    console.log(props)
+    {/*======== distracturing ==========*/ }
     const { name, img, id, age, category, sellary } = props.employe
     return (
         <div className="text-center">
@@ -17,8 +17,9 @@ const Hired = (props) => {
                     <h6 className="card-title ">Monthly Salary: {sellary}</h6>
                     <h6 className="card-title designation">Designation: {category}</h6>
                     <div className="text-center pb-3">
+                        {/*======== event hander called ==========*/}
                         <button onClick={() => props.addToCartHandelar(props.employe)} className="common-button ">
-                            <span><i className="fas fa-cart-plus"></i></span> Add to curt</button>
+                            <span><i className="fas fa-cart-plus  text-info"></i></span> Add to curt</button>
                     </div>
                 </div>
             </div>

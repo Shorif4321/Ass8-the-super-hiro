@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './componends/Header/Header';
 import Empoye from './componends/Employe/Empoye';
@@ -6,6 +5,7 @@ import Empoye from './componends/Employe/Empoye';
 function App() {
   return (
     <div>
+      {/*======== Componends add here ==========*/}
       <Header></Header>
       <Empoye></Empoye>
     </div>
