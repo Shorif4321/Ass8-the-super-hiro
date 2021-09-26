@@ -1,0 +1,23 @@
+.details{
+    position: fixed;
+    right:0;
+    top: 200px;
+    
+}
+
+.buyNow{
+        background-color: rgb(57, 120, 161);
+        padding: 6px 20px;
+        border: 2px solid gray;
+        color: white;
+        border-radius: 30px;
+        
+    }
+.buyNow:hover{
+        background-color: rgb(88, 78, 78);
+        padding: 6px 20px;
+        border: 2px solid gray;
+        color: white;
+        border-radius: 30px;
+        
+    }

@@ -1,0 +1,22 @@
+.common-button{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    color: white;
+    border: 2px solid #adbac1;
+    padding: 6px 20px;
+    border-radius: 30px;
+    margin-left:10px ;
+    background-color: #466c81;
+    font-size: 16px;
+}
+.common-button:hover{
+    background-color: rgb(88, 78, 78);
+    padding: 6px 20px;
+    border: 2px solid black;
+    color: white;
+    border-radius: 30px;
+}
+.designation{
+    min-height: 50px;
+}
