@@ -19,7 +19,7 @@ const Home = () => {
                     <div className="col-md-8 p-4 text-white" >
                         <h6 className="text-start home-details">Welcome to the LanguEasy</h6>
                         <h2 className="fs-1 text-start">You can Learn Your necessary Language from our Expert Teachers</h2>
-                        <p className="text-start home-details">Here are a lot of experienced teachers who will help you to teach Engling or another language easily. We are working for our students actively and very politely by our special support and another service </p>
+                        <p className="text-start home-details">Here are a lot of experienced teachers who will help you to teach Englins or another language easily. We are working for our students actively and very politely by our special support and another service </p>
                     </div>
                     <div className=" col-md-4">
                     </div>
