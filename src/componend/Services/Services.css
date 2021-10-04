@@ -1,0 +1,12 @@
+.course img{
+  width: 250px;
+  height: 250px;
+  border-radius:10px;
+}
+.coure-name{
+    min-height: 50px;
+}
+.button-regular{
+    background-color: #194271;
+    color: white;
+}

@@ -1,0 +1,19 @@
+.header{
+    background-color:#194271;  
+}
+.link-style{
+color: white;
+font-size: 18px;
+text-decoration: none;
+margin: 10px;
+padding: 10px;
+line-height: 70px;
+font-family: sans-serif;
+}
+.link-style:hover{
+    color: red;
+}
+.web-name{
+    text-align: center;
+    justify-content: center;
+}

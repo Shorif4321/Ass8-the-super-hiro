@@ -1,0 +1,38 @@
+[
+    {
+        "key": "1",
+        "category": "Bsic",
+        "coureName": "18 languages from beginer to expert",
+        "courseFree": 30000,
+        "duration": "3 Months",
+        "details": "This 18-part course consists of tutorials, quizzes, hands-on assignments, and real-world projects to learn natural language processing.",
+        "img": "https://stylemixthemes.com/masterstudy/language-center/wp-content/uploads/sites/15/2019/01/box_3-217x217.jpg"
+    },
+    {
+        "key": "2",
+        "category": "Expert",
+        "coureName": "One-to One or Group Lessons",
+        "courseFree": 25000,
+        "duration": "4 Months",
+        "details": "Let's Learn English is a course for English learners. Certified American English teachers designed the course for beginners.",
+        "img": "https://stylemixthemes.com/masterstudy/language-center/wp-content/uploads/sites/15/2019/01/box_1-217x217.jpg"
+    },
+    {
+        "key": "3",
+        "category": "Normal",
+        "coureName": "Special lessons and courses",
+        "courseFree": 25000,
+        "duration": "5 Months",
+        "details": "Great lesson ideas and lesson plans for ESL teachers! Educators can customize lesson plans to best fit their students' needs and learning styles.",
+        "img": "https://stylemixthemes.com/masterstudy/language-center/wp-content/uploads/sites/15/2019/01/box_2-217x217.jpg"
+    },
+    {
+        "key": "4",
+        "category": "advance",
+        "coureName": "A Residential Campus Community",
+        "courseFree": 15000,
+        "duration": "6 Months",
+        "details": "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart.",
+        "img": "https://stylemixthemes.com/masterstudy/language-center/wp-content/uploads/sites/15/2019/01/box_1-217x217.jpg"
+    }
+]

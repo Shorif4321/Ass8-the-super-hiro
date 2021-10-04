@@ -1,0 +1,22 @@
+.home-backgroun{
+    background-image: url(../../images/Screenshot.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-blend-mode: multiply;
+    background-color: rgb(122, 115, 113);
+}
+.home-details{
+    color:#e1dede;
+}
+.logo-image img{
+    border-radius: 100%;
+    height: 200px;
+    width: 200px;
+}
+.service-heading{
+    min-height: 113px;
+}
+.service-details{
+min-height: 150px;
+}
