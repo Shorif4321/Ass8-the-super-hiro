@@ -39,6 +39,7 @@ const About = () => {
                     </p>
                     <p className="text-start">I hope this course will change your life and make a good career
                     </p>
+                    <p>ala</p>
                 </div>
 
                 <div className="col-md-6">
